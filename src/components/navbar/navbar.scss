@@ -6,8 +6,11 @@
   top: 0;
   z-index: 999;
   background: linear-gradient(to top, transparent 0%, rgb(0,0,0,0.3) 50%);
+  transition: background-color 0.3s ease-in ;
   &.scrolled{
     background-color: var(--main-color);
+    transition: background-color 0.3s ease-in ;
+    
   }
 
   .container {
