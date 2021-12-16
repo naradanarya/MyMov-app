@@ -12,9 +12,12 @@
          position: absolute;
          left: 50px;
          bottom: 100px;
-         color:white;
+         color:black;
          display: flex;
          flex-direction: column;
+         img{
+             width: 400px;
+         }
 
          .desc{
              margin: 20px 0px;

@@ -14,8 +14,9 @@ export default function Featured({ type }) {
           </select>
         </div>
       )}
-      <img src="https://wallpaperaccess.com/full/1188141.jpg" alt="" />
+      <img src="https://images7.alphacoders.com/113/thumb-1920-1135807.jpg" alt="" />
       <div className="info">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/e/ea/Horimiya_Logo.png" alt="" />
         <span className="desc">
           Lorem Ipsum is simply dummy text of the printing and typesetting
           industry. Lorem Ipsum has been the industry's standard dummy text ever
